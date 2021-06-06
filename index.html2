@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>google page</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="styles.css">
+
+    </head>
+    <body>
+        <div class="doodle">
+           <a href="#">Gmail</a>
+           <a href="#">image</a>
+           <button class="logo">sign-in</button>
+        </div>
+        <div class="main-page">
+            <div class="top-page">
+               <h1><span style='color: red;'>G</span><span style="color: yellow;">o</span><span style="color: blue;">o</span><span style="color: red;">g</span><span style="color: yellow;">l</span><span style="color: green;">e</span></h1>
+            </div>
+
+            <!--form-->
+            <div class="form">
+                <form>
+                  <label for="form-search">
+                    <input type="text" id="form-search" placeholder="search google or type URL">
+                  </label>
+                </form>
+            </div>   
+        <!--buttons-->
+        <div class="buttons">
+          <input type="summit" value="google search" id="google_search">
+           <input type="summit" value="i m feeling good" id="im_feeling_good">
+        </div>
+        <br><br><br> <br><br><br>
+        <div class="lang">Nertharland</div><hr>
+        
+        <!--footer-->
+        <footer>
+            <div class="menu">
+                <ul class="footer-left">
+                   <li><a href="#">Advertising</a></li>
+                   <li><a href="#">Business</a></li>
+                   <li><a href="#">About</a></li>
+               </ul>
+               <ul class="footer-right">
+                  <li><a href="#">privacy</a></li>
+                  <li><a href="#">terms</a></li>
+                  <li><a href="#">settings</a></li>
+               </ul>
+            </div>
+        </footer>
+
+    </body>
+</html>
